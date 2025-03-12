@@ -1,0 +1,66 @@
+/* Reset de estilos básicos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Estilo para o body */
+body {
+    background-color: #f4f7fc; /* Cor de fundo suave */
+    color: #333; /* Texto escuro para boa legibilidade */
+    padding: 20px;
+    font-size: 16px;
+}
+
+/* Centralização do conteúdo */
+.center-content {
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Estilo do título principal */
+.titulo {
+    font-size: 36px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+/* Estilo para informações gerais */
+.info {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Estilo para links */
+.links {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.links:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para subtítulos de seção */
+h2.titulo {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+/* Ajuste para as habilidades - sem espaçamento entre elas */
+p.info {
+    margin-bottom: 0; /* Removendo a margem entre as habilidades */
+}
+
+/* Adicionar um pouco de espaçamento entre as seções */
+p {
+    margin-bottom: 20px;
+}
