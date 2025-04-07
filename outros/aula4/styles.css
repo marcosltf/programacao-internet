@@ -1,0 +1,60 @@
+
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.decima {
+    text-align: center;
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    }
+
+.disc {
+    width: auto;
+    text-align: center;
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.data {
+    text-align: center;
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 8%;
+    height: 80px;
+}
+
+.hora {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.teorprat {
+    text-align: center;
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 10%;
+    height: 40px;
+}
+
+.textcentr {
+    text-align: center;
+}
+
+.prof {
+    width: 20%;
+}
+
+.slab {
+    text-align: center;
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 8%;
+}
